@@ -44,6 +44,9 @@ MIT
 
 
 
+
+
+
 # MacOS 27 Theme for Squirrel（Rime）
 
 A macOS 27-inspired green theme for Squirrel (Rime).
