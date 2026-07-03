@@ -26,6 +26,7 @@ A macOS 27-inspired green theme for Squirrel (Rime).
 ## Preview
 ### Light
 <img width="336" height="83" alt="截屏2026-07-03 13 03 21" src="https://github.com/user-attachments/assets/ffb1d099-d4c4-48db-b169-44c309d68d0c" />
+
 ### Dark
 <img width="358" height="86" alt="截屏2026-07-03 13 47 28" src="https://github.com/user-attachments/assets/e2a9a306-d6fb-43a6-a439-3899fd03a029" />
 
