@@ -1,0 +1,50 @@
+patch:
+  style:
+    status_message_type: mix
+    candidate_format: "[label] [candidate]"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+    inline_candidate: false
+    translucency: true
+    mutual_exclusive: false
+    memorize_size: false
+    showPaging: false
+    alpha: 0.92
+    corner_radius: 13
+    hilited_corner_radius: 11
+    border_height: -2
+    border_width: 0
+    line_spacing: 3
+    spacing: 5
+    base_offset: 0
+    shadow_size: 1
+    font_face: PingFang SC
+    font_point: 15.5
+    label_font_face: PingFang SC
+    label_font_point: 10
+    color_scheme: macos_light
+    color_scheme_dark: macos_dark
+
+  preset_color_schemes:
+    macos_light:
+      author: 安静 <qvshuo@foxmail.com>
+      color_space: display_p3
+      back_color: "0xCCFFFFFF"
+      hilited_candidate_back_color: "0x65BE82"
+      text_color: "0xFFFFFF"
+      candidate_text_color: "0x000000"
+      hilited_candidate_text_color: "0xFFFFFF"
+      label_color: "0x99000000"
+      hilited_candidate_label_color: "0xFFFFFF"
+
+    macos_dark:
+      author: 安静 <qvshuo@foxmail.com>
+      color_space: display_p3
+      back_color: "0x26000000"
+      hilited_candidate_back_color: "0x60C080"
+      text_color: "0xFFFFFF"
+      candidate_text_color: "0xE6FFFFFF"
+      hilited_candidate_text_color: "0xFFFFFF"
+      label_color: "0x80FFFFFF"
+      hilited_candidate_label_color: "0xFFFFFF"
