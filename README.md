@@ -1,3 +1,7 @@
+# macOS 27 Theme for Squirrel（Rime）
+
+[English](#english) | [中文](#中文)
+
 # MacOS 27 Theme for Squirrel（Rime）
 
 一个参考 **macOS 27 原生输入法**设计风格的鼠须管（Squirrel / Rime）主题。
